@@ -6,11 +6,16 @@ The script employs the Naive Bayes algorithm, specifically the GaussianNB implem
 
 # Features
 Importing a pre-defined dataset
+
 Splitting data into training and test sets
+
 Training a Gaussian Naive Bayes classifier
+
 Making predictions with the trained model
+
 Evaluating model performance with accuracy score
-Code
+
+# Code
 The script begins by importing necessary libraries and the dataset. It then organizes the data into labels and features for easier processing. The data is split into training and testing sets, with 33% of the data reserved for testing. The Naive Bayes classifier is initialized and then trained using the training data. The trained model is used to make predictions on the test set, and the accuracy of these predictions is evaluated using the accuracy_score method from Scikit-learn's metrics module.
 
 # Requirements
