@@ -20,9 +20,12 @@ The script begins by importing necessary libraries and the dataset. It then orga
 
 # Requirements
 Python 3.x
+
 Scikit-learn library
+
 NumPy (required by Scikit-learn)
-Usage
+
+# Usage
 To use this code, you need to have Python and the required libraries installed. Once you have those, simply clone the repository and run the Python script.
 
 # Acknowledgments
