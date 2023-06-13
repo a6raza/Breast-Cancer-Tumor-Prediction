@@ -25,9 +25,6 @@ NumPy (required by Scikit-learn)
 Usage
 To use this code, you need to have Python and the required libraries installed. Once you have those, simply clone the repository and run the Python script.
 
-# License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 # Acknowledgments
 The Breast Cancer Wisconsin (Diagnostic) Data Set from Scikit-learn was used for this project.
 Thanks to the Scikit-learn team for the useful machine learning library.
